@@ -12,6 +12,7 @@ Stabilizer-BOT is a Python testnet bot that fully automates claiming all tokens 
 - 🔁 **Swap Test Tokens** - Automated swap token, 2M volume dily
 - 💧 **Add Liquidity** - Automated add Liquidity pools
 - 👥 **Multi-Account Support** - Soon
+- ⚠️ **Approve First all Pairs on browser before run**
 
 ## 📋 Requirements
 
